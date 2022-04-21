@@ -29,6 +29,8 @@ The model has been fine-tuned on several datasets
 ## Resource Links
 
 [TAPAS Model Summary ](https://huggingface.co/docs/transformers/model_doc/tapas)
+
+
 [Model revisions](https://huggingface.co/models?search=tapas)
 
 
