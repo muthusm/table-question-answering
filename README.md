@@ -18,6 +18,12 @@ The model has been fine-tuned on several datasets
 
 ![alt text](https://github.com/muthusm/table-question-answering/blob/main/tapas_architecture.png)
 
+## Analysis
+
+For question answering, TAPAS has 2 heads on top: a cell selection head and an aggregation head, for (optionally) performing aggregations (such as counting or summing) among selected cells. TAPAS has been fine-tuned on several datasets: SQA (Sequential Question Answering by Microsoft), WTQ (Wiki Table Questions by Stanford University) and WikiSQL (by Salesforce). It achieves state-of-the-art on both SQA and WTQ, while having comparable performance to SOTA on WikiSQL, with a much simpler architecture. TAPAS outperforms or rivals semantic parsing models by improving state-of-the-art accuracy on SQA from 55.1 to 67.2 and performing on par with the state-of-the-art on WIKISQL and WIKITQ, but with a simpler model architecture.
+
+
+
 ## [Huggingface space](https://huggingface.co/spaces/Meena/table-question-answering-space)
 
 ## [Huggingface modelcard](https://huggingface.co/Meena/table-question-answering-tapas)
@@ -29,8 +35,7 @@ The model has been fine-tuned on several datasets
 ## Resource Links
 
 [TAPAS Model Summary ](https://huggingface.co/docs/transformers/model_doc/tapas)
-
-
+[Documentation](https://huggingface.co/transformers/v4.9.2/model_doc/tapas.html)
 [Model revisions](https://huggingface.co/models?search=tapas)
 
 
