@@ -18,14 +18,11 @@ The model has been fine-tuned on several datasets
 
 ![alt text](https://github.com/muthusm/table-question-answering/blob/main/tapas_architecture.png)
 
-## Huggingface space
-![alt text](https://huggingface.co/spaces/Meena/table-question-answering-space)
+## [Huggingface space](https://huggingface.co/spaces/Meena/table-question-answering-space)
 
-## Huggingface modelcard
-![alt text](https://huggingface.co/Meena/table-question-answering-tapas)
+## [Huggingface modelcard](https://huggingface.co/Meena/table-question-answering-tapas)
 
-## Code Demo
-![alt text](https://github.com/muthusm/table-question-answering/blob/main/2%20Train%20Model.ipynb)
+## [Code Demo](https://github.com/muthusm/table-question-answering/blob/main/2%20Train%20Model.ipynb)
 
 ## Video
 
