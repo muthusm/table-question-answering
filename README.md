@@ -30,7 +30,7 @@ For question answering, TAPAS has 2 heads on top: a cell selection head and an a
 
 ## [Code Demo](https://github.com/muthusm/table-question-answering/blob/main/2%20Train%20Model.ipynb)
 
-## Video
+## [Video](https://github.com/muthusm/table-question-answering/blob/main/video1864411241.mp4)
 
 ## Resource Links
 
